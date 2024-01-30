@@ -121,49 +121,49 @@ Lentila varifocală în contextul supravegherii video este o lentilă cu capacit
 Latimea de banda (bandwidth) este capacitatea unei legaturi de comunicatii prin rețea, cablu sau fara fir pentru a transmite cantitatea maxima de date de la un punct la altul printr-o retea de calculatoare sau conexiune la internet intr-o anumita perioada de timp - de obicei, o secunda. Sinonim cu capacitatea, latimea de banda descrie rata de transfer a datelor. Latimea de banda nu este o măsura a vitezei retelei - o concepte gresita.
 **51. Lentila cu zoom**
 Lentila cu zoom este un element esențial în supravegherea video, permitând ajustarea focalizării pentru a mări sau micșora imaginea. Aceasta oferă flexibilitate în obținerea unor detalii precise în diferite situații. Zoom-ul optic oferă calitate superioară, menținând claritatea imaginii, spre deosebire de variantele digitale. Utilizată în camerele de supraveghere, lentila cu zoom optimizează capacitatea de monitorizare, permițând adaptarea la distanțe variate fără a compromite detaliile esențiale.
-**52.Lentile CS Mount**
+**52. Lentile CS Mount**
 Lentilele CS Mount sunt o variantă specifică de lentile proiectate pentru camerele de supraveghere video. Ele utilizează un sistem de montare CS (C/CS Mount), cu un suport mai mic decât lentilele standard C Mount. Acest design permite ajustarea focalizării pentru a se potrivi cu diverse condiții de monitorizare și oferă flexibilitate în configurarea sistemelor de supraveghere.
-**53.Linii TV**
+**53. Linii TV**
 Linii TV reprezintă o măsură a rezoluției verticale a imaginii în tehnologia video analogică. În sistemul tradițional, un ecran TV era format din mai multe linii orizontale, iar numărul acestora determina claritatea și detaliile imaginii. O rezoluție mai mare, exprimată în numărul de linii TV, însemna o imagine mai fină și mai detaliată. Cu evoluția tehnologiei către formatul digital, această metrică a devenit în mare parte învechită.
-**54.MOD ZI/NOAPTE**
+**54. MOD ZI/NOAPTE**
 O camera care are o functionare normala a culorilor in situatiile in care exista o iluminare suficienta (conditii de zi), dar unde sensibilitatea poate fi crescuta atunci cand nu este disponibila lumina (conditii de noapte). Acest lucru este realizat prin inlaturarea filtrului IR-cut(necesar pentru o culoare buna). Sensibilitatea poate fi imbunatatita in continuare prin integrarea unui numar de cadre prentru a imbunatati zgomotului de imagine.
-**55.MPEG (Moving Picture Experts Group)**
+**55. MPEG (Moving Picture Experts Group)**
 MPEG (Moving Picture Experts Group) este un standard de compresie video dezvoltat pentru stocarea și transmiterea eficientă a informațiilor video. Utilizează tehnici de compresie lossy pentru a reduce dimensiunea fișierelor video, menținând totuși o calitate acceptabilă. Standardele MPEG sunt larg adoptate în industria supravegherii video, streaming și televiziune digitală.
-**56.NVR (Network Video Recorder)**
+**56. NVR (Network Video Recorder)**
 NVR (Network Video Recorder) este un dispozitiv specializat înregistrare video, utilizat în sistemele de supraveghere. Se conectează la rețea și gestionează înregistrările de la camerele de supraveghere IP. NVR-ul stochează și organizează datele video într-un format digital, facilitând accesul și monitorizarea eficientă a activităților înregistrate pe rețeaua respectivă.
-**57.OSD (On Screen Display)**
+**57. OSD (On Screen Display)**
 Meniul OSD (On Screen Display) în supravegherea video este o interfață grafică afișată pe ecranul dispozitivului de monitorizare sau înregistrare video. Acest meniu oferă utilizatorilor opțiuni și setări accesibile direct pe ecran, cum ar fi reglarea luminozității, contrastului, zoom-ului sau alte setări ale camerei de supraveghere, facilitând gestionarea și personalizarea configurărilor în timp real.
 **58. Pixeli**
 Pixelii sunt elementele individuale ale unei imagini digitale sau video, reprezentând puncte mici de lumină sau culoare. Termenul vine de la "element de imagine." Cu cât o imagine are mai mulți pixeli, cu atât este mai detaliată. În contextul supravegherii video, pixelii sunt fundamentali pentru rezoluția imaginii, afectând claritatea și detaliile vizibile pe ecran.
-**59.Pelco D**
+**59. Pelco D**
 Pelco D este un protocol de control al camerei de supraveghere video, dezvoltat de Pelco, care definește comunicarea între dispozitivele de securitate. Acest standard permite controlul precis al pan-tilt-zoom (PTZ) și al altor funcții, facilitând integrarea echipamentelor diverse într-un sistem de supraveghere eficient și interconectat.
-**60.PTZ**
+**60. PTZ**
 PTZ se referă la funcțiile Pan, Tilt și Zoom în sistemele de supraveghere video. Acestea permit controlul remote al camerei pentru a roti orizontal (Pan), vertical (Tilt) și pentru a face zoom la obiecte. Tehnologia PTZ oferă flexibilitate în monitorizarea și înregistrarea, îmbunătățind capacitatea de urmărire și observare a zonei monitorizate în timp real.
 **28.** **Placa de captura**
 Placa de captură este un dispozitiv hardware utilizat în supravegherea video, care convertește semnalele video analogice din camerele de securitate în format digital pentru stocare și monitorizare. Aceasta permite integrarea eficientă a camerelor analogice în sistemele moderne de supraveghere video digitale, asigurând calitate și accesibilitate îmbunătățite ale înregistrărilor.
-**61.POE**
+**61. POE**
 Power Over Ethernet - De obicei, camerele de supraveghere necesita doua cabluri pentru a putea inregistra (alimentare+video). Prin asocierea cu un NVR corespunzator, conexiunea de tip POE permite printr-un singur cablu FTP transmiterea alimentarii cat si a semnalului video. Daca sunteti in cautarea unui NVR care suporta PoE , este important sa verificati mai intai numarul de  porturi, pentru a putea acoperi toate dispozitivele dumneavoastra. Daca aveti un NVR care nu are POE, puteti lua un switch POE, prin care vor trece cablurile inainte sa ajunga in NVR.
-**62.PROTECTIE ANTIVANDAL – IK**
+**62. PROTECTIE ANTIVANDAL – IK**
 Clasificarea IK stabilește gradul de protectie care este asigurat de carcasa echipamentului impotriva socurilor mecanice externe. Cu cat indexul IK este mai mare, cu atata rezista mai mult la socuri. (este sugerat IK10 pentru o camera de supraveghere).
-**63.Rezolutie Orizontala**
+**63. Rezolutie Orizontala**
 Rezoluția orizontală în supravegherea video se referă la numărul de pixeli dispusi pe orizontala într-o imagine. Cu cât rezoluția orizontală este mai mare, cu atât imaginea va fi mai detaliată și mai clară, permițând identificarea mai precisă a obiectelor sau persoanelor înregistrate într-un cadru video.
-**64.ROI – (Region Of Interest)**
+**64. ROI – (Region Of Interest)**
 O zonă specifica dintr-un camp de vizualizare, folosita de algoritmul de detectie pentru a identifica miscarea.
-**65.RS-485**
+**65. RS-485**
 RS485 este un standard de comunicare serială utilizat în sisteme de supraveghere video pentru transmiterea datelor între camerele de securitate și dispozitivele de control. Acest protocol asigură comunicare fiabilă pe distanțe lungi, de până la 1,200 metri, și permite conectarea mai multor dispozitive într-un singur sistem, facilitând supravegherea eficientă a unui perimetru extins.
-**66.ROUTER**
+**66. ROUTER**
 Un dispozitiv care transmite pachetele de date de-a lungul retelelor. In mod obisnuit, cand se face referire la instalatiile CCTV, un router este utilizat pentru a conecta un DVR de supraveghere si un computer la o singura conexiune la internet. Un router poate fi, de asemenea, utilizat pentru a conecta mai multe camere de securitate bazate pe tehnologie IP la o singura conexiune de internet.
 **67. Semnal analog**
 Semnalul analog în supravegherea video se referă la transmiterea continuă a informațiilor video sub formă de unde electromagnetice variabile în timp, reflectând detaliile vizuale ale scenei. În acest context, semnalul analog reprezintă o reprezentare continuă și variabilă a imaginii, în contrast cu semnalul digital, care este discret și constă în informație cuantificată.
-**68.S/N – SIGNAL TO NOISE RATIO**
+**68. S/N – SIGNAL TO NOISE RATIO**
 S / N este raportul dintre zgomot si semnalul total real, si arata cum nivelul de semnal este mai mare decat nivelul de zgomot. Acesta este exprimat in decibeli (dB), daca valoarea este mai mare, imaginea si sunetul vor fi mai clare in timpul redarii. Un S / N raportul este calculat cu logaritmul semnalului normal si valoarea RMS a zgomotului.
 **69. TRANSMITATOR PE FIBRA OPTICA**
 Este un convertor digital, folosit pentru a transmite/receptiona un semnal video pe o distanta mare (ex 2 km). Se poate folosi si impreuna cu interfata de comunicare RS-485.
 **70. UNGHI**
 Unghiul - campul de vedere, in raport cu o lentila standard intr-o camera de 35 mm, exprimata in grade, de ex. 30 °. In scopuri practice, aceasta este zona pe care o lentila poate acoperi, unde unghiul de vedere este determinat de lungimea focala a obiectivului. Un obiectiv cu unghi larg are o distanta focala mica si acopera un unghi de vedere mai larg decat lentilele standard sau telefotografice, care au lungimi focale mai lungi.
-**71.Unghi de vizualizare**
+**71. Unghi de vizualizare**
 Unghiul de vizualizare în supravegherea video se referă la câmpul de vedere al camerei, măsurat în grade, care indică cât de mult spațiu poate acoperi camera. Cu cât unghiul este mai mare, cu atât camera poate captura o porțiune mai extinsă a scenei. Este esențial pentru planificarea poziționării camerei pentru acoperirea optimă a zonei de interes.
-**72.UTC - UP THE COAX**
+**72. UTC - UP THE COAX**
 UTC este noua tehnologie adoptata in sistemul de supraveghere video analogic. UTC poate permite utilizatorului sa configureze de la distanta OSD-ul camerei prin intermediul circuitului integrat UTC (IC). Cel mai important, pentru a adopta tehnologia UTC, nu necesita schimbarea designului original al circuitelor CCTV, deci UTC este incorporat in cablul coaxial, semnalul de control va transmite prin cablu coaxial.
 **73. VIDEO BALUN**
 Vine de la prescurtarea BALance / UNbalance.  Un video balun este o alegere excelenta pentru un traseu lung de cablu. Cablul standard coaxial este, de obicei, cel mai bun mediu pentru transmiterea de imagini video, dar calitatea inregistrarilor este limitata la aproximativ 180 de metri înainte de degradarea calitatii. Un video balun permite semnalului sa calatoreasca cateva sute de metri in plus. Exista 2 tipuri de video balun CCTV, pasiv si activ. Un video balun pasive sunt bune pana la 350 de metri. Un video activ poate extinde raza de actiune la 1200 de metri, dar s-ar putea sa foloseasca o alimentare externa cu curent continuu (DC).
@@ -171,7 +171,7 @@ Vine de la prescurtarea BALance / UNbalance.  Un video balun este o alegere exc
 Un server video este un dispozitiv sau un software specializat care gestionează și stochează fluxuri video într-o rețea. Funcționează ca un nod central pentru transmiterea și recepționarea semnalelor video, permițând supravegherea și accesul la imagini în timp real sau înregistrări. Serverul video poate fi utilizat în sisteme de supraveghere pentru a monitoriza și gestiona camerele de securitate, oferind o platformă centralizată pentru administrare și stocare a datelor video.
 **75. WDR (Wide Dynamic Range)**
 WDR (Wide Dynamic Range) înseamnă o capacitate extinsă de captare a imaginilor în condiții de iluminare variabilă. Tehnologia WDR ajustează expunerea pentru a obține detalii clare atât în zonele luminoase, cât și în cele întunecate ale unei scene, asigurând vizualizare echilibrată și detaliată în condiții de iluminare inegală sau intensă
-**76.XVR (eXtended Video Recorder)**
+**76. XVR (eXtended Video Recorder)**
 XVR, sau "eXtended Video Recorder," reprezintă o tehnologie avansată în supravegherea video. Este un sistem de înregistrare care integrează funcționalități extinse, cum ar fi monitorizarea în timp real, stocarea eficientă a datelor și gestionarea complexă a surselor multiple de camere de supraveghere. XVR optimizează eficiența și securitatea, oferind soluții avansate pentru sistemele de supraveghere video.
 **77. Zoom**
 Zoom în contextul supravegherii video se referă la capacitatea camerei de a mări detaliile într-o imagine. Transfocatorul, puterea lentilei, de cite ori apropie imaginea. De ex. pentru o lentila variofocala cu f=10 - 110 mm, zoom=110/100=11, deci avem zoom X11 (o apropiere de 11 ori).Raport intre distanta focala finala (telefoto) si initiala (wide) a lentilei variofocale. Un zoom de 11X va mari imaginea wide de 11 ori.
