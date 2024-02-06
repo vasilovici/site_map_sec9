@@ -11,11 +11,12 @@ Comenzi și Livrare
 
 
 Informații utile
-     Termeni și condiții
-     Politica de confidențialitate
-     Garanție si service
-     Reclamații și sesizări
-     Returnarea produselor
+    [[Termeni și condiții]]
+     [[Politica de confidențialitate]]
+     [[Politica Cookies]]
+     [[Garanție si service]]
+     [[Reclamații și sesizări]]
+     [[Returnarea produselor]]
      [[Dicționar termeni]]
      
      
